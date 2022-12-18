@@ -55,6 +55,7 @@
 
    ![img folder](img/coding/nim.png)
 
+    Baik disini errornya berupa type yaitu bahwa nim itu harus integer, karena fungsi input selalu mengembalikan type data string, jika kalian tidak ingin eror kalian bisa convert nim trsebut ke integer dngn cara berikut => nim = int(input("Masukan NIM : "))
 
 #### Baik Teman teman kurang lebih seperti itu dalam belajar exception pada python
 #### di repository ini kita memang sengaja membuat kesalahan agar bisa mengetes exception dengan try except, Untuk kali ini kita hanya belajar beberapa saja dari exception, jika kalian ingin lebih banyak mencoba silahkan kunjungi link dibawah ini :
